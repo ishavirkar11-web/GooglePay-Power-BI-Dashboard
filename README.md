@@ -1,4 +1,5 @@
 # Google Pay Transaction Analytics Dashboard
+
 1. Project Overview
 The Google Pay Transaction Analytics Dashboard is an interactive Power BI project designed to analyze digital payment transactions and provide meaningful business insights. The dashboard enables users to monitor transaction performance, payment success rates, customer behavior, and transaction trends through dynamic and interactive visualizations.
 
@@ -28,4 +29,5 @@ Microsoft Excel
 🎛️ Interactive Slicers and Filters
 
 5.Dashboard Preview
+https://github.com/ishavirkar11-web/GooglePay-Power-BI-Dashboard/blob/main/Dashboard.png
 
